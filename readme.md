@@ -1,18 +1,18 @@
-# MyChat
+# SilentVoice (2nd Year Project 🎓🚀)
 
 ## Description 
-A Group video calling application using the Agora Web SDK with a Django backend.
+A Group video calling application 👥 using the Agora Web SDK with a Django backend integrated with Sign Language for Deaf people.
 
 ##  How to use this source code
 
 #### 1 - Clone repo
 ```
-git clone https://github.com/divanov11/mychat
+git clone https://github.com/ayushvidhale/SilentVoice/
 ```
 
 #### 2 - Install requirements
 ```
-cd mychat
+cd SilentVoice
 pip install -r requirements.txt
 ```
 
